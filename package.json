@@ -1,0 +1,9 @@
+{
+  "name": "webar-marker-slam-sdk",
+  "version": "2.0.0",
+  "description": "Zero-install in-browser WebXR and optical marker pose estimation SDK.",
+  "main": "dist/index.js",
+  "keywords": ["webxr", "webar", "threejs", "slam", "marker-tracking", "aruco"],
+  "author": "Gaurav Bhardwaj <gaurav@omegagaze.in>",
+  "license": "MIT"
+}
